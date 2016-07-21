@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f27096c4-866b-4f08-bac5-221e23940f74" name="Default" comment="" />
+    <ignored path="SDGG.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SDGG" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4123">
+              <caret line="401" column="42" selection-start-line="401" selection-start-column="42" selection-end-line="401" selection-end-column="42" />
+              <folding>
+                <element signature="e#973#1157#0" expanded="false" />
+                <element signature="e#1837#2125#0" expanded="false" />
+                <element signature="e#2161#2420#0" expanded="false" />
+                <element signature="e#2453#2576#0" expanded="false" />
+                <element signature="e#2609#2732#0" expanded="false" />
+                <element signature="e#2762#2966#0" expanded="false" />
+                <element signature="e#2995#3169#0" expanded="false" />
+                <element signature="e#3204#3436#0" expanded="false" />
+                <element signature="e#3471#3653#0" expanded="false" />
+                <element signature="e#3690#3902#0" expanded="false" />
+                <element signature="e#3939#4122#0" expanded="false" />
+                <element signature="e#4159#4366#0" expanded="false" />
+                <element signature="e#4402#4578#0" expanded="false" />
+                <element signature="e#4609#4818#0" expanded="false" />
+                <element signature="e#4849#5028#0" expanded="false" />
+                <element signature="e#5068#5191#0" expanded="false" />
+                <element signature="e#5230#5326#0" expanded="false" />
+                <element signature="e#5357#5483#0" expanded="false" />
+                <element signature="n#a-entity#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-image#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#15181#15299#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swimming-button.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/button/swimming-button.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="science-button.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/button/science-button.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="science.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/360photo/science.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swimming.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/360photo/swimming.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/first page.html" />
+        <option value="$PROJECT_DIR$/1.js" />
+        <option value="$PROJECT_DIR$/XXX.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1856" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDGG2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDGG2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDGG2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDGG2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDGG2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="button" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDGG2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDGG2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="360photo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\SDGG" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\SDGG" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f27096c4-866b-4f08-bac5-221e23940f74" name="Default" comment="" />
+      <created>1468896511550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1468896511550</updated>
+      <workItem from="1468896512738" duration="7787000" />
+      <workItem from="1468918302799" duration="5100000" />
+      <workItem from="1468996862662" duration="16980000" />
+      <workItem from="1469066044622" duration="4385000" />
+      <workItem from="1469071979543" duration="22000" />
+      <workItem from="1469072415481" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34939000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1856" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23467697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>82</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#973#1157#0" expanded="false" />
+            <element signature="e#1837#2125#0" expanded="false" />
+            <element signature="e#2161#2420#0" expanded="false" />
+            <element signature="e#2453#2576#0" expanded="false" />
+            <element signature="e#2609#2732#0" expanded="false" />
+            <element signature="e#2762#2966#0" expanded="false" />
+            <element signature="e#2995#3169#0" expanded="false" />
+            <element signature="e#3204#3436#0" expanded="false" />
+            <element signature="e#3471#3653#0" expanded="false" />
+            <element signature="e#3690#3902#0" expanded="false" />
+            <element signature="e#3939#4122#0" expanded="false" />
+            <element signature="e#4159#4366#0" expanded="false" />
+            <element signature="e#4402#4578#0" expanded="false" />
+            <element signature="e#4609#4818#0" expanded="false" />
+            <element signature="e#4849#5028#0" expanded="false" />
+            <element signature="e#5068#5191#0" expanded="false" />
+            <element signature="e#5230#5326#0" expanded="false" />
+            <element signature="e#5357#5483#0" expanded="false" />
+            <element signature="n#a-entity#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#15181#15299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/swimming-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/science-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/science.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/swimming.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#973#1157#0" expanded="false" />
+            <element signature="e#1837#2125#0" expanded="false" />
+            <element signature="e#2161#2420#0" expanded="false" />
+            <element signature="e#2453#2576#0" expanded="false" />
+            <element signature="e#2609#2732#0" expanded="false" />
+            <element signature="e#2762#2966#0" expanded="false" />
+            <element signature="e#2995#3169#0" expanded="false" />
+            <element signature="e#3204#3436#0" expanded="false" />
+            <element signature="e#3471#3653#0" expanded="false" />
+            <element signature="e#3690#3902#0" expanded="false" />
+            <element signature="e#3939#4122#0" expanded="false" />
+            <element signature="e#4159#4366#0" expanded="false" />
+            <element signature="e#4402#4578#0" expanded="false" />
+            <element signature="e#4609#4818#0" expanded="false" />
+            <element signature="e#4849#5028#0" expanded="false" />
+            <element signature="e#5068#5191#0" expanded="false" />
+            <element signature="e#5230#5326#0" expanded="false" />
+            <element signature="e#5357#5483#0" expanded="false" />
+            <element signature="n#a-entity#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#15181#15299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/swimming-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/science-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/science.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/swimming.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#973#1157#0" expanded="false" />
+            <element signature="e#1837#2125#0" expanded="false" />
+            <element signature="e#2161#2420#0" expanded="false" />
+            <element signature="e#2453#2576#0" expanded="false" />
+            <element signature="e#2609#2732#0" expanded="false" />
+            <element signature="e#2762#2966#0" expanded="false" />
+            <element signature="e#2995#3169#0" expanded="false" />
+            <element signature="e#3204#3436#0" expanded="false" />
+            <element signature="e#3471#3653#0" expanded="false" />
+            <element signature="e#3690#3902#0" expanded="false" />
+            <element signature="e#3939#4122#0" expanded="false" />
+            <element signature="e#4159#4366#0" expanded="false" />
+            <element signature="e#4402#4578#0" expanded="false" />
+            <element signature="e#4609#4818#0" expanded="false" />
+            <element signature="e#4849#5028#0" expanded="false" />
+            <element signature="e#5068#5191#0" expanded="false" />
+            <element signature="e#5230#5326#0" expanded="false" />
+            <element signature="e#5357#5483#0" expanded="false" />
+            <element signature="n#a-entity#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#15181#15299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/swimming.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pv.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XXX.html" />
+    <entry file="file://$PROJECT_DIR$/first page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pv.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library.jpg" />
+    <entry file="file://$PROJECT_DIR$/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986348">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.js" />
+    <entry file="file://$PROJECT_DIR$/first page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XXX.html" />
+    <entry file="file://$PROJECT_DIR$/360photo/artcollege.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pv.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/sg-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/washley-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/library.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/technology.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/h.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/ground-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/ground.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/park.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/sg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/swimming.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/science-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360photo/science.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button/swimming-button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4123">
+          <caret line="401" column="42" selection-start-line="401" selection-start-column="42" selection-end-line="401" selection-end-column="42" />
+          <folding>
+            <element signature="e#973#1157#0" expanded="false" />
+            <element signature="e#1837#2125#0" expanded="false" />
+            <element signature="e#2161#2420#0" expanded="false" />
+            <element signature="e#2453#2576#0" expanded="false" />
+            <element signature="e#2609#2732#0" expanded="false" />
+            <element signature="e#2762#2966#0" expanded="false" />
+            <element signature="e#2995#3169#0" expanded="false" />
+            <element signature="e#3204#3436#0" expanded="false" />
+            <element signature="e#3471#3653#0" expanded="false" />
+            <element signature="e#3690#3902#0" expanded="false" />
+            <element signature="e#3939#4122#0" expanded="false" />
+            <element signature="e#4159#4366#0" expanded="false" />
+            <element signature="e#4402#4578#0" expanded="false" />
+            <element signature="e#4609#4818#0" expanded="false" />
+            <element signature="e#4849#5028#0" expanded="false" />
+            <element signature="e#5068#5191#0" expanded="false" />
+            <element signature="e#5230#5326#0" expanded="false" />
+            <element signature="e#5357#5483#0" expanded="false" />
+            <element signature="n#a-entity#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#0;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-image#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#15181#15299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

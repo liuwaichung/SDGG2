@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>SD GG</title>
+    <meta name="SDGG" content="ALL TEAM MEMBER">
+    <script src="https://aframe.io/releases/0.2.0/aframe.min.js"></script>
+    <link rel=stylesheet href="css/nav.css">
+    <script>
+
+
+        function businessOff(){
+            document.getElementById("business").setAttribute('visible', 'false');
+
+            document.getElementById("technologybutton").setAttribute('visible', 'false');
+
+
+            document.getElementById("hover-esther").setAttribute('visible', 'false');
+            document.getElementById("label-esther").setAttribute('visible', 'false');
+        }
+
+        function technologybuttonOn(){
+            businessOff();
+            englishbuttonOff();
+            document.getElementById("technology").setAttribute('visible', 'ture');
+
+            document.getElementById("englishbutton").setAttribute('visible', 'ture');
+
+        }
+        function technologybuttonOff(){
+            document.getElementById("technology").setAttribute('visible', 'false');
+
+            document.getElementById("englishbutton").setAttribute('visible', 'false');
+
+        }
+
+        function englishbuttonOn(){
+            technologybuttonOff();
+            document.getElementById("english").setAttribute('visible', 'ture');
+
+            document.getElementById("librarybutton").setAttribute('visible', 'ture');
+            document.getElementById("technologybutton").setAttribute('visible', 'true');
+        }
+        function englishbuttonOff(){
+            document.getElementById("english").setAttribute('visible', 'false');
+
+            document.getElementById("librarybutton").setAttribute('visible', 'false');
+            document.getElementById("technologybutton").setAttribute('visible', 'false');
+        }
+
+        function librarybuttonOn(){
+            englishbuttonOff();
+            document.getElementById("library").setAttribute('visible', 'ture');
+
+            document.getElementById("hbutton").setAttribute('visible', 'ture');
+            document.getElementById("parkbutton").setAttribute('visible', 'ture');
+
+        }
+        function librarybuttonOff(){
+            document.getElementById("library").setAttribute('visible', 'false');
+
+            document.getElementById("hbutton").setAttribute('visible', 'false');
+            document.getElementById("parkbutton").setAttribute('visible', 'false');
+
+        }
+
+        function parkbuttonOn(){
+            librarybuttonOff();
+            document.getElementById("park").setAttribute('visible', 'ture');
+
+
+
+        }
+        function parkbuttonOff(){
+            librarybuttonOff();
+            document.getElementById("park").setAttribute('visible', 'ture');
+
+
+
+        }
+
+        function hbuttonOn(){
+            librarybuttonOff();
+            document.getElementById("h").setAttribute('visible', 'ture');
+
+            document.getElementById("groundbutton").setAttribute('visible', 'ture');
+
+        }
+        function hbuttonff(){
+            document.getElementById("h").setAttribute('visible', 'false');
+
+            document.getElementById("groundbutton").setAttribute('visible', 'false');
+
+        }
+
+        function groundbuttonOn(){
+            hbuttonff();
+            businessOff();
+            document.getElementById("ground").setAttribute('visible', 'ture');
+
+
+            document.getElementById("swimmingbutton").setAttribute('visible', 'ture');
+
+        }
+        function groundbuttonOff(){
+            document.getElementById("ground").setAttribute('visible', 'false');
+
+
+            document.getElementById("swimmingbutton").setAttribute('visible', 'false');
+
+        }
+
+        function swimmingbuttonOn(){
+            groundbuttonOff();
+            document.getElementById("swimming").setAttribute('visible', 'ture');
+
+
+            document.getElementById("sciencebutton").setAttribute('visible', 'ture');
+
+        }
+        function swimmingbuttonOff(){
+            document.getElementById("swimming").setAttribute('visible', 'false');
+
+
+            document.getElementById("sciencebutton").setAttribute('visible', 'false');
+
+        }
+
+
+        function sciencebuttonOn(){
+            swimmingbuttonOff();
+            document.getElementById("science").setAttribute('visible', 'ture');
+
+            document.getElementById("sgbutton").setAttribute('visible', 'ture');
+
+        }
+        function sciencebuttonOff(){
+            document.getElementById("science").setAttribute('visible', 'false');
+
+            document.getElementById("sgbutton").setAttribute('visible', 'false');
+
+        }
+
+        function sgbuttonOn(){
+            sciencebuttonOff();
+            document.getElementById("sg").setAttribute('visible', 'ture');
+
+            document.getElementById("artcollegebutton").setAttribute('visible', 'ture');
+
+        }
+        function sgbuttonOff(){
+            document.getElementById("sg").setAttribute('visible', 'false');
+
+            document.getElementById("artcollegebutton").setAttribute('visible', 'false');
+
+        }
+
+
+        function artcollegebuttonOn(){
+            sgbuttonOff();
+            document.getElementById("artcollege").setAttribute('visible', 'ture');
+
+
+        }
+        function artcollegebuttonOff(){
+            document.getElementById("artcollege").setAttribute('visible', 'false');
+
+        }
+
+        function businessOn(){
+            artcollegebuttonOff()
+            document.getElementById("business").setAttribute('visible', 'ture');
+        }
+
+    </script>
+</head>
+<body>
+
+
+<a-scene>
+
+ <a-entity camera look-controls="enabled: true" wasd-controls="enabled: false">
+    <a-entity position="0 0 -0.5" geometry="primitive: ring; radiusOuter: 0.010; radiusInner: 0.007" material="color: #4CC3D9; shader: flat; transparent: true; opacity: 0.5" cursor="fuse: true; maxDistance: 10000; timeout: 1000"></a-entity>
+    </a-entity>
+
+    <!-- setting up the background photo  -------------------------------------------------------->
+    
+    <a-entity id="business" visible="ture">                      <!-- true show on the first page -->
+        <a-sky src="360photo/business.jpg"></a-sky></a-entity>
+
+    <a-entity id="artcollege" visible="false">
+        <a-sky src="360photo/artcollege.jpg"></a-sky></a-entity>
+
+    <a-entity id="sg" visible="false">
+        <a-sky src="360photo/sg.jpg"></a-sky></a-entity>
+
+    <a-entity id="english" visible="false">
+        <a-sky src="360photo/english.jpg"></a-sky></a-entity>
+    
+    <a-entity id="ground" visible="false">
+        <a-sky src="360photo/ground.jpg"></a-sky></a-entity>
+    
+    <a-entity id="h" visible="false">
+        <a-sky src="360photo/h.jpg"></a-sky></a-entity>
+    
+    <a-entity id="library" visible="false">
+        <a-sky src="360photo/library.jpg"></a-sky></a-entity>
+    
+    <a-entity id="park" visible="false">
+        <a-sky src="360photo/park.jpg"></a-sky></a-entity>
+    
+    <a-entity id="science" visible="false">
+        <a-sky src="360photo/science.jpg"></a-sky></a-entity>
+
+    
+    <a-entity id="swimming" visible="false">
+        <a-sky src="360photo/swimming.jpg"></a-sky></a-entity>
+    
+    <a-entity id="technology" visible="false">
+        <a-sky src="360photo/technology.jpg"></a-sky></a-entity>
+    
+    <a-entity id="27" visible="false">
+        <a-sky src="360photo/27.jpg"></a-sky></a-entity>
+    
+    <a-entity id="v" visible="false">
+        <a-sky src="360photo/v.jpg"></a-sky></a-entity>
+    
+    <a-entity id="ad" visible="false">
+        <a-sky src="360photo/ad.jpg"></a-sky></a-entity>
+    
+    <a-entity id="c" visible="false">
+        <a-sky src="360photo/c.jpg"></a-sky></a-entity>
+    
+    <a-entity id="ed" visible="false">
+        <a-sky src="360photo/ed.jpg"></a-sky></a-entity>
+    
+    
+    
+
+
+    <!-- 設定轉頁按鈕------------------------------------------------------------>
+    <a-image  onClick="sgbuttonOn()" id="sgbutton" height="50" width="112" src="button/sg-button.png"
+              position="100 -20 -200" rotation="0 -30 0" opacity="0.5" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+
+
+    <a-image  onClick="englishbuttonOn()" id="englishbutton" height="24" width="112" src="button/english-botton.png"
+              position="0 -20 -200" rotation="0 -30 0" opacity="0.5" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+
+
+    <a-image  onClick="artcollegebuttonOn()" id="artcollegebutton" height="200" width="600" src="button/downtown-button.png"
+              position="-700 -20 1500" rotation="0 120 0" opacity="2" visible="true">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+
+
+    <a-image  onClick="dislandbuttonOn()" id="dislandbutton" height="24" width="112" src="button/disland-button.png"
+                position="-80 -20 -200" rotation="0 -30 0" opacity="0.5" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="groundbuttonOn()" id="groundbutton" height="24" width="112" src="button/ground-button.png"
+        position="-80 -20 -200" rotation="0 -30 0" opacity="0.5" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="hbuttonOn()" id="hbutton" height="24" width="112" src="button/h-button.png"
+        position="-120 -20 -200" rotation="0 -30 0" opacity="0.5" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="librarybuttonOn()" id="librarybutton" height="24" width="112" src="button/library-button.png"
+        position="-180 -20 -200" rotation="0 -30 0" opacity="0.5" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="parkbuttonOn()" id="parkbutton" height="24" width="112" src="button/park-button.png"
+        position="700 -20 500" rotation="0 -30 0" opacity="0.5" visible="true">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="sciencebuttonOn()" id="sciencebutton" height="50" width="112" src="button/science-button.png"
+        position="50 -20 -200" rotation="0 -30 0" opacity="0.5" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+
+    <a-image  onClick="swimmingbuttonOn()" id="swimmingbutton" height="50" width="112" src="button/swimming-button.png"
+        position="50 -20 -200" rotation="0 30 0" opacity="2" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="technologybuttonOn()" id="technologybutton" height="25" width="112" src="button/washley-button.png"
+        position="-100 -20 -200" rotation="210 210 540" opacity="2" visible="ture">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    
+
+
+
+
+
+
+
+
+
+    <!-- 設定標籤----- 整合--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+    <a-mixin
+
+            id="hover"
+            geometry="primitive: plane; width: 1; height: 1;"
+            material="color: #FFFFFF; opacity: 0">
+    </a-mixin>
+   <!-- istanbuloneOff()------------------------------------------------------------>
+
+    <a-entity
+            id="hover-esther"
+            target="#label-esther"
+            mixin="hover"
+            position="-6.8  3.9 -3"
+            rotation="0 100 -3"
+            geometry="width: 14; height: 9;"
+            visible="true">
+    </a-entity>
+    <a-image
+            id="label-esther"
+            src="greg_d.png"
+            position="-6.8  -1.8 -3"
+            scale="7 3 2"
+            rotation="0 -280  0"
+            visible="false">
+    </a-image>
+
+    <!-- istanbultwoOff()---------------------------------------------------------------------->
+
+</a-scene>
+
+
+<script type="text/javascript">
+
+    // when you mouse over nothing
+    //   all hovers are visible
+    //   all labels are invisible
+    // when you mouse over a hover
+    //   one label is visible
+    //   all other labels are invisible
+    //   all other hovers are invisible
+    var hovers = [];
+    var labels = [];
+    var labelsEgg = [];
+
+    // Add all of our hover elements and labels into an array so we can
+    // iterate over them dynamically when setting state.
+    hovers.push(document.querySelector('#hover-esther'));
+    labels.push(document.querySelector('#label-esther'));
+
+
+    // Sets state for the team photo scene's labels and hovers.
+    function setState(subject, state, keep) {
+        var iterator;
+
+        // determine what we're iterating over
+        if (subject === 'hovers') {
+            iterator = hovers;
+        }
+        if (subject === 'labels') {
+            iterator = labels;
+        }
+        if (subject === 'hotspots') {
+            iterator = hoversEgg;
+        }
+        if (subject === 'eggs') {
+            iterator = labelsEgg;
+        }
+        // console.log('iterator', iterator);
+
+        // determine which state
+        if (state == 'visible') {
+            // set all hovers visible
+            iterator.forEach(function(iterate) {
+                iterate.setAttribute('visible', true);
+            })
+        }
+        if (state == 'invisible') {
+            // set all hovers invisible
+            iterator.forEach(function(iterate) {
+                iterate.setAttribute('visible', false);
+            })
+        }
+
+        // see if we have one to keep visible
+        if (keep) {
+            keep.setAttribute('visible', true);
+        }
+    }
+
+    //________________
+    // Event listeners
+
+    // button.addEventListener('click', function() {
+    //   teamState();
+    // });
+
+    // Each hover needs an event listener.
+    hovers.forEach(function(hover) {
+        hover.addEventListener('mouseenter', function() {
+            // set state of all hovers to invisible except one
+            setState('hovers', 'invisible', hover);
+
+            // show corresponding label
+            var hoverLabel = hover.getAttribute('target');
+            // console.log('hoverlabel', hoverLabel);
+            document.querySelector(hoverLabel).setAttribute('visible', true);
+        })
+
+        hover.addEventListener('mouseleave', function() {
+            // set state of all hovers to visible
+            setState('hovers', 'visible');
+
+            // set state of all labels to invisible
+            setState('labels', 'invisible');
+        })
+
+        hover.addEventListener('click', function() {
+            var egg = hover.getAttribute('egg-target');
+            var is_visible = document.querySelector(egg).getAttribute('visible');
+            if (egg !== null && is_visible === false) {
+                document.querySelector(egg).setAttribute('visible', true);
+            } else {
+                document.querySelector(egg).setAttribute('visible', false);
+            }
+        })
+
+    });
+
+    // Each egg should disappear if you click it.
+    labelsEgg.forEach(function(egg) {
+        egg.addEventListener('click', function() {
+            this.setAttribute('visible', false);
+        })
+    });
+
+
+    //__________
+    // Execution
+
+    // introState(0);
+    // window.setTimeout(function() {
+    //   introState(1);
+    // }, seconds*1000);
+    // teamState();
+</script>
+</body>
+</html>

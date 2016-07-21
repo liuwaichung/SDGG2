@@ -6,13 +6,20 @@
     <meta name="SDGG" content="ALL TEAM MEMBER">
     <script src="https://aframe.io/releases/0.2.0/aframe.min.js"></script>
     <link rel=stylesheet href="css/nav.css">
+
     <script>
+        
+        function businessOn(){
+            
+            document.getElementById("business").setAttribute('visible', 'ture');
 
 
+        }
+    
         function businessOff(){
             document.getElementById("business").setAttribute('visible', 'false');
 
-            document.getElementById("technologybutton").setAttribute('visible', 'false');
+            document.getElementById("artcollegebutton").setAttribute('visible', 'false');
 
 
             document.getElementById("hover-esther").setAttribute('visible', 'false');
@@ -20,8 +27,7 @@
         }
 
         function technologybuttonOn(){
-            businessOff();
-            englishbuttonOff();
+
             document.getElementById("technology").setAttribute('visible', 'ture');
 
             document.getElementById("englishbutton").setAttribute('visible', 'ture');
@@ -35,8 +41,7 @@
         }
 
         function englishbuttonOn(){
-            technologybuttonOff();
-            document.getElementById("english").setAttribute('visible', 'ture');
+ocument.getElementById("english").setAttribute('visible', 'ture');
 
             document.getElementById("librarybutton").setAttribute('visible', 'ture');
             document.getElementById("technologybutton").setAttribute('visible', 'true');
@@ -49,7 +54,7 @@
         }
 
         function librarybuttonOn(){
-            englishbuttonOff();
+
             document.getElementById("library").setAttribute('visible', 'ture');
 
             document.getElementById("hbutton").setAttribute('visible', 'ture');
@@ -65,7 +70,7 @@
         }
 
         function parkbuttonOn(){
-            librarybuttonOff();
+
             document.getElementById("park").setAttribute('visible', 'ture');
 
 
@@ -80,7 +85,7 @@
         }
 
         function hbuttonOn(){
-            librarybuttonOff();
+
             document.getElementById("h").setAttribute('visible', 'ture');
 
             document.getElementById("groundbutton").setAttribute('visible', 'ture');
@@ -94,8 +99,7 @@
         }
 
         function groundbuttonOn(){
-            hbuttonff();
-            businessOff();
+
             document.getElementById("ground").setAttribute('visible', 'ture');
 
 
@@ -111,7 +115,7 @@
         }
 
         function swimmingbuttonOn(){
-            groundbuttonOff();
+
             document.getElementById("swimming").setAttribute('visible', 'ture');
 
 
@@ -128,7 +132,6 @@
 
 
         function sciencebuttonOn(){
-            swimmingbuttonOff();
             document.getElementById("science").setAttribute('visible', 'ture');
 
             document.getElementById("sgbutton").setAttribute('visible', 'ture');
@@ -142,22 +145,19 @@
         }
 
         function sgbuttonOn(){
-            sciencebuttonOff();
             document.getElementById("sg").setAttribute('visible', 'ture');
 
-            document.getElementById("artcollegebutton").setAttribute('visible', 'ture');
+
 
         }
         function sgbuttonOff(){
             document.getElementById("sg").setAttribute('visible', 'false');
 
-            document.getElementById("artcollegebutton").setAttribute('visible', 'false');
 
         }
 
 
         function artcollegebuttonOn(){
-            sgbuttonOff();
             document.getElementById("artcollege").setAttribute('visible', 'ture');
 
 
@@ -166,13 +166,61 @@
             document.getElementById("artcollege").setAttribute('visible', 'false');
 
         }
+    
+    function cbuttonOn(){
+        document.getElementById("c").setAttribute('visible', 'ture');
+        
+        
+    }
+    function cbuttonOff(){
+        document.getElementById("c").setAttribute('visible', 'false');
+        
+    }
 
-        function businessOn(){
-            artcollegebuttonOff()
-            document.getElementById("business").setAttribute('visible', 'ture');
-        }
+    function vbuttonOn(){
+  document.getElementById("v").setAttribute('visible', 'ture');
+        
+        
+    }
+    function vbuttonOff(){
+        document.getElementById("v").setAttribute('visible', 'false');
+        
+    }
 
-    </script>
+    function redbuttonOn(){
+        document.getElementById("red").setAttribute('visible', 'ture');
+        
+        
+    }
+    function redbuttonOff(){
+        document.getElementById("red").setAttribute('visible', 'false');
+        
+    }
+
+    function edbuttonOn(){
+
+        document.getElementById("ed").setAttribute('visible', 'ture');
+        
+        
+    }
+    function edbuttonOff(){
+        document.getElementById("ed").setAttribute('visible', 'false');
+        
+    }
+
+    function adbuttonOn(){
+
+        document.getElementById("ad").setAttribute('visible', 'ture');
+        
+        
+    }
+    function adbuttonOff(){
+        document.getElementById("ad").setAttribute('visible', 'false');
+        
+    }
+    
+    
+        </script>
 </head>
 <body>
 
@@ -219,8 +267,8 @@
     <a-entity id="technology" visible="false">
         <a-sky src="360photo/technology.jpg"></a-sky></a-entity>
     
-    <a-entity id="27" visible="false">
-        <a-sky src="360photo/27.jpg"></a-sky></a-entity>
+    <a-entity id="red" visible="false">
+        <a-sky src="360photo/red.jpg"></a-sky></a-entity>
     
     <a-entity id="v" visible="false">
         <a-sky src="360photo/v.jpg"></a-sky></a-entity>
@@ -253,8 +301,8 @@
     </a-image>
 
 
-    <a-image  onClick="artcollegebuttonOn()" id="artcollegebutton" height="200" width="600" src="button/downtown-button.png"
-              position="-700 -20 1500" rotation="0 120 0" opacity="2" visible="true">
+    <a-image  onClick="artcollegebuttonOn()" id="artcollegebutton" height="200" width="600" src="button2/artcollege-button.png"
+              position="-400 -20 1500" rotation="0 150 0" opacity="2" visible="ture">
         <a-event name="mouseenter" opacity="1"></a-event>
         <a-event name="mouseleave" opacity="0.5"></a-event>
     </a-image>
@@ -284,8 +332,8 @@
         <a-event name="mouseleave" opacity="0.5"></a-event>
     </a-image>
     
-    <a-image  onClick="parkbuttonOn()" id="parkbutton" height="24" width="112" src="button/park-button.png"
-        position="700 -20 500" rotation="0 -30 0" opacity="0.5" visible="true">
+    <a-image  onClick="parkbuttonOn()" id="parkbutton" height="24" width="112" src="button2/park-button.png"
+        position="700 0 500" rotation="0 100 0" opacity="0.5" visible="ture">
         <a-event name="mouseenter" opacity="1"></a-event>
         <a-event name="mouseleave" opacity="0.5"></a-event>
     </a-image>
@@ -302,12 +350,41 @@
         <a-event name="mouseleave" opacity="0.5"></a-event>
     </a-image>
     
-    <a-image  onClick="technologybuttonOn()" id="technologybutton" height="25" width="112" src="button/washley-button.png"
-        position="-100 -20 -200" rotation="210 210 540" opacity="2" visible="ture">
+    <a-image  onClick="technologybuttonOn()" id="technologybutton" height="24" width="112" src="button2/technology-button.png"
+        position="100 -20 -200" rotation="0 -30 0" opacity="2" visible="false">
         <a-event name="mouseenter" opacity="1"></a-event>
         <a-event name="mouseleave" opacity="0.5"></a-event>
     </a-image>
     
+    <a-image  onClick="edbuttonOn()" id="edbutton" height="25" width="112" src="button/ed-button.png"
+        position="-100 -20 -200" rotation="210 210 540" opacity="2" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="cbuttonOn()" id="cbutton" height="25" width="112" src="button/c-button.png"
+        position="-100 -20 -200" rotation="210 210 540" opacity="2" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="redbuttonOn()" id="redbutton" height="25" width="112" src="button/red-button.png"
+        position="-100 -20 -200" rotation="210 210 540" opacity="2" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="adbuttonOn()" id="adbutton" height="25" width="112" src="button/ad-button.png"
+        position="-100 -20 -200" rotation="210 210 540" opacity="2" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
+    
+    <a-image  onClick="vbuttonOn()" id="vbutton" height="25" width="112" src="button/v-button.png"
+        position="-100 -20 -200" rotation="210 210 540" opacity="2" visible="false">
+        <a-event name="mouseenter" opacity="1"></a-event>
+        <a-event name="mouseleave" opacity="0.5"></a-event>
+    </a-image>
     
 
 

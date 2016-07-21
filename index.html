@@ -20,7 +20,7 @@
             document.getElementById("business").setAttribute('visible', 'false');
 
             document.getElementById("artcollegebutton").setAttribute('visible', 'false');
-
+              
 
             document.getElementById("hover-esther").setAttribute('visible', 'false');
             document.getElementById("label-esther").setAttribute('visible', 'false');
@@ -70,15 +70,14 @@ ocument.getElementById("english").setAttribute('visible', 'ture');
         }
 
         function parkbuttonOn(){
-
+            businessOff();
             document.getElementById("park").setAttribute('visible', 'ture');
 
 
 
         }
         function parkbuttonOff(){
-            librarybuttonOff();
-            document.getElementById("park").setAttribute('visible', 'ture');
+            document.getElementById("park").setAttribute('visible', 'false');
 
 
 
@@ -158,6 +157,7 @@ ocument.getElementById("english").setAttribute('visible', 'ture');
 
 
         function artcollegebuttonOn(){
+            businessOff();
             document.getElementById("artcollege").setAttribute('visible', 'ture');
 
 
@@ -332,8 +332,8 @@ ocument.getElementById("english").setAttribute('visible', 'ture');
         <a-event name="mouseleave" opacity="0.5"></a-event>
     </a-image>
     
-    <a-image  onClick="parkbuttonOn()" id="parkbutton" height="24" width="112" src="button2/park-button.png"
-        position="700 0 500" rotation="0 100 0" opacity="0.5" visible="ture">
+    <a-image  onClick="parkbuttonOn()" id="parkbutton" height="96" width="281" src="button2/park-button.png"
+        position="800 50 500" rotation="20 240 0" opacity="2" visible="ture">
         <a-event name="mouseenter" opacity="1"></a-event>
         <a-event name="mouseleave" opacity="0.5"></a-event>
     </a-image>
